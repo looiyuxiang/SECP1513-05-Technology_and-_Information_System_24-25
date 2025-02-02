@@ -10,7 +10,7 @@ The assembly of the PC involved several key steps:
 
 3️⃣ **Insert the RAM into the motherboard's slot**, ensuring it's aligned properly.
 
-![RAM image](https://www.crucial.com/articles/about-memory/is-my-ram-compatible-with-my-motherboard)
+![RAM image]("C:\Users\Dell\Downloads\img.jpg")
 
 4️⃣ **Press it down firmly until a "click" sound** confirms it's securely in place.
 
