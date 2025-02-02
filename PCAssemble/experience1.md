@@ -1,26 +1,27 @@
+
 # PC Assembly Project
 
 ## Assembly Process
 
 The assembly of the PC involved several key steps:
 
-0️⃣ **Clip the CPU properly onto the motherboard** before proceeding with the other components.
+1️⃣ **Install the CPU into the motherboard socket**, ensuring it's aligned properly with the socket, and secure it by lowering the retention arm.
 
-1️⃣ **Place the ❄️ CPU fan onto the 🧠 CPU** and secure it with screws using a screwdriver.
+2️⃣ **Place the ❄️ CPU fan onto the 🧠 CPU** and secure it with screws.
 
-2️⃣ **Install the hard disk**, ensuring it's positioned correctly.
+3️⃣ **Install the hard disk**, ensuring it's positioned correctly in its designated slot.
 
-3️⃣ **Insert the RAM into the motherboard's slot**, ensuring it's aligned properly, and press down firmly until a "click" sound confirms it's securely in place.
+4️⃣ **Insert the RAM into the motherboard's slot**, making sure it’s aligned properly, and press down firmly until a "click" sound confirms it's securely in place.
 
 ![RAM image](https://github.com/looiyuxiang/SECP1513-05-Technology_and-_Information_System_24-25/blob/1a0c0aad119301f36f964fa6d9031e9cabe10a2e/PCAssemble/img.jpg)
 
-4️⃣ **Install the power supply unit** by screwing it into position.
+5️⃣ **Install the power supply unit (PSU)** by screwing it into position.
 
-5️⃣ **Connect all necessary cables** to the motherboard, hard disk, and power supply unit.
+6️⃣ **Connect all necessary cables** to the motherboard, hard disk, and power supply unit.
 
-6️⃣ **Close the case** after ensuring all components are connected.
+7️⃣ **Close the case** after ensuring all components are connected.
 
-7️⃣ **Connect the PC to a monitor** and power it on to verify the system works.
+8️⃣ **Connect the PC to a monitor** and power it on to verify that the system is working.
 
 Once the monitor powered up successfully, we knew our assembly was complete. 🎉
 
